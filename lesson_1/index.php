@@ -1,4 +1,7 @@
 <?php
+
+// dz lesson_1
+
 $user = readline("Привет как тебязовут ? ");
 // $age = readline("Сколько тебе лет ? ");
 // echo "Вас зовут $user, вам $age лет. ";
